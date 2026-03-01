@@ -13,7 +13,7 @@ A CLI tool for checking SUID binaries against the [GTFOBins](https://gtfobins.gi
 ## Installation
 
 ```bash
-git clone https://github.com/jessewilson/gtfobins-cli /opt/gtfobins-cli
+git clone https://github.com/JesseAlexanderWilson/gtfobins-cli /opt/gtfobins-cli
 cd /opt/gtfobins-cli
 sudo bash install.sh
 ```
@@ -21,7 +21,7 @@ sudo bash install.sh
 Or as a one-liner:
 
 ```bash
-curl -s https://raw.githubusercontent.com/jessewilson/gtfobins-cli/main/install.sh | sudo bash
+curl -s https://raw.githubusercontent.com/JesseAlexanderWilson/gtfobins-cli/main/install.sh | sudo bash
 ```
 
 ## Usage
